@@ -47,7 +47,7 @@ My background includes academic research, freelance web development, and hands-o
 
 ## 📂 Featured Projects
 ### 🔹 Credit Card Validity Checker — Java 
-🔗 **Source code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git) **
+🔗 **Source code:**[Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)**
 
 ---
 
