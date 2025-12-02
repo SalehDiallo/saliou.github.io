@@ -50,7 +50,9 @@ My background includes academic research, freelance web development, and hands-o
 🔗 **Source code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git) **
 
 ---
+
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.
+
 ---
 #### 🚀 Key Features
 
