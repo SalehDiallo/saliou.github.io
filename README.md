@@ -5,6 +5,7 @@
 🎓 Master's in Computer Science – Université de Montréal  
 📍 Based in Montreal, QC  
 🌐 Bilingual: French & English  
+Other languages: Fulani, Wolof, Mandarin
 
 ---
 
