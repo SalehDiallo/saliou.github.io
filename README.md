@@ -92,6 +92,8 @@ This task implements k-NN classification using the Minkowski distance metric. It
 #### 🔧 Tech Stack  
 `Python` • `numpy`
 
+---
+
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
 **Tech:** Python, Pandas, Matplotlib, Scikit-learn  
