@@ -44,6 +44,11 @@ My background includes academic research, web development, and hands-on work in 
 
 ## 📂 Featured Projects
 
+### 🔹 AI Developper 
+Responsible for implementing the artificial intelligence module of the [DocFlow](https://docflow.ca/) project.
+#### 🔧 Tech Stack 
+`Python` • `huggingface` • `LLM` • `Document AI` • `Google Cloud Vison API` • `PaddleOCR` • `DocTR` • `FastAPI` • `Google Cloud` • `Docker` • `Vue.js` • `Vertex AI` • `Firebase` • `AlloyDB`
+
 ### 🔹 Credit Card Validity Checker  
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.  
 🔗 **Code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)  
