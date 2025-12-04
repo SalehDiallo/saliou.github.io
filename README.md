@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I am an AI Engineer and Software Developer with experience in building data pipelines, deploying machine learning models, and designing intelligent applications. I specialize in **Gen AI**, **LLMs**, **MLOps**, **computer vision**, **data engineering**, and **full-stack development**.
 
-My background includes academic research, freelance web development, and hands-on work in AI and software engineering. I thrive in environments where innovation meets real-world impact.
+My background includes academic research, web development, and hands-on work in AI and software engineering. I thrive in environments where innovation meets real-world impact.
 
 ---
 
@@ -146,7 +146,7 @@ Mini-projects using LLMs for RAG chatbot, PDF Q&A, planning agents, and FastAPI 
 **Computer Science — [University of Montreal](https://www.umontreal.ca/l-udem/#histoire)** — *Canada*  
 Focus: AI, Data Science, Computer Vision, Machine Learning  
 
-**Computer Science — [Northwestern Polytechnic University](https://en.nwpu.edu.cn/)** — *China*  
+**Computer Science — [Northwestern Polytechnical University](https://en.nwpu.edu.cn/)** — *China*  
 Focus: Computer vision, Object detection & recognition, Deep learning  
 
 **Computer Science — [Iba Der Thiam University of Thiès](https://v3.uidt.sn/a-propos/)** — *Senegal*  
