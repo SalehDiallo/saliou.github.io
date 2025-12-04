@@ -68,7 +68,7 @@ Senportable is an Android application that retrieves the user’s IP address, la
 
 ### 🔹 2D Neural Radiance Field (NeRF)
 This project implements a 2D Neural Radiance Field (NeRF) in Mathematica. It generates a neural representation of a scene from multiple 2D observations, learns a continuous radiance function, and reconstructs or synthesizes new views. The notebook includes data preprocessing, neural network training, visualization, and rendering.<br>
-🔗 **Code:** [Coming soon](##)  
+🔗 **Code:** [NeRF using Mathematica](https://github.com/zalediallo/IFT-6145-Homeworks/blob/main/TP4-nerf2D-V3.nb)  
 #### 🔧 Tech Stack  
 `Wolfram Mathematica` 
 
