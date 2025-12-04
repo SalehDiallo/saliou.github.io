@@ -43,230 +43,123 @@ My background includes academic research, freelance web development, and hands-o
 ---
 
 ## 📂 Featured Projects
-### 🔹 Credit Card Validity Checker 
 
-Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.
-
-🔗 **Code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)
-
+### 🔹 Credit Card Validity Checker  
+Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.  
+🔗 **Code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)  
 #### 🔧 Tech Stack  
 `Java` • `OOP` • `Luhn Algorithm` • `Design Patterns` • `Modular Java`
 
----
-
-### 🔹 Introduction to Numpy library 
-**Code:** [Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)
-
+### 🔹 Introduction to Numpy library  
+**Code:** [Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `Numpy`
 
----
-
-### 🔹 Best Features selection
-Loading the Iris dataset, splits it, selects important features using chi-squared, Random Forest, LDA, and forward sequential selection, and prints selected indices and feature importances.
-
-🔗 **Code:** [Best Features selection](https://github.com/SalehDiallo/IFT6390/blob/main/Best_features_selections.ipynb)
-
+### 🔹 Best Features selection  
+Loading the Iris dataset, splits it, selects important features using chi-squared, Random Forest, LDA, and forward sequential selection.  
+🔗 **Code:** [Best Features selection](https://github.com/SalehDiallo/IFT6390/blob/main/Best_features_selections.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `sklearn`
 
----
-
-### 🔹 Statistical Modeling and Regression Analysis with Python
-This task explores statistical simulations, kernel density estimation, Gaussian basis ridge regression, bias-variance analysis, and polynomial regression with cross-validation to visualize, model, and evaluate function approximations and predictions.
-
-🔗 **Code:** [Statistical Modeling and Regression Analysis](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_H24_Devoir_1_Gabarit.ipynb)
-
+### 🔹 Statistical Modeling and Regression Analysis with Python  
+This task explores statistical simulations, kernel density estimation, Gaussian basis ridge regression, bias-variance analysis, and polynomial regression with cross-validation.  
+🔗 **Code:** [Statistical Modeling and Regression Analysis](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_H24_Devoir_1_Gabarit.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `matplotlib` • `numpy`
 
----
-
-### 🔹 k-Nearest Neighbors (k-NN) Classification with Minkowski Distance
-This task implements k-NN classification using the Minkowski distance metric. It computes distances between vectors, predicts labels for the Iris dataset, and evaluates training and testing error rates.
-
-🔗 **Code:** [k-NN 1](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_Lab1_02_1_NN.ipynb)
-
+### 🔹 k-NN Classification with Minkowski Distance  
+Implementation of k-NN classification using the Minkowski distance metric on the Iris dataset.  
+🔗 **Code:** [k-NN 1](https://github.com/SalehDiallo/IFT6390/blob/main/IFT6390_Lab1_02_1_NN.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `numpy`
 
----
-
-### 🔹 k-NN, Parzen Windows, Confusion Matrices & Decision Boundaries on Iris
-
-This task implements k-NN and Parzen classifiers, computes confusion matrices, visualizes decision boundaries, evaluates test errors, and explores distance metrics and neighborhood-based classification on the Iris dataset.
-
-🔗 **Code:** [k-NN 2](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_Lab2_Neighborhood_Classifiers_and_decision_boundaries.ipynb)
-
+### 🔹 k-NN, Parzen Windows, Confusion Matrices & Decision Boundaries  
+Implementation of k-NN and Parzen classifiers, confusion matrices, decision boundaries, and distance metrics exploration.  
+🔗 **Code:** [k-NN 2](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_Lab2_Neighborhood_Classifiers_and_decision_boundaries.ipynb)  
 #### 🔧 Tech Stack  
-`Python` • `numpy`• `matplotlib`
+`Python` • `numpy` • `matplotlib`
 
----
-
-### 🔹 Loss Functions, Linear Models & Gradient Descent on the Iris Dataset
-
-This task implements and visualizes multiple loss functions, preprocesses the Iris dataset for binary classification, and builds linear classifiers (Linear Regression, Perceptron, SVM, Logistic Regression). It includes decision boundary plotting, full-batch gradient descent training, error-rate evaluation, and learning-curve visualization.
-
-**Code:** [Gradient Descent](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_Lab4_EN_Linear_Classifiers_and_Gradient_Descent.ipynb)
-
+### 🔹 Loss Functions, Linear Models & Gradient Descent  
+Linear classifiers on Iris dataset with multiple loss functions, gradient descent, and decision boundary visualization.  
+🔗 **Code:** [Gradient Descent](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_Lab4_EN_Linear_Classifiers_and_Gradient_Descent.ipynb)  
 #### 🔧 Tech Stack  
-`Python` • `numpy`• `matplotlib`
+`Python` • `numpy` • `matplotlib`
 
----
-
-### 🔹 Decision Tree From Scratch with Entropy, Information Gain & Decision Boundary Visualization
-
-This task builds a full decision tree classifier **from scratch** using entropy and information gain.  
-It includes synthetic data generation, training/test split, tree construction with unique node IDs, prediction functions, Graphviz visualization, and detailed 2D decision-boundary plotting for interpretability.
-
-**Code:** [Decision Tree](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_decision_trees.ipynb)
-
+### 🔹 Decision Tree From Scratch  
+Full decision tree classifier with entropy, information gain, synthetic data, visualization, and 2D decision boundary.  
+🔗 **Code:** [Decision Tree](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_decision_trees.ipynb)  
 #### 🔧 Tech Stack  
-`Python` • `numpy` • `matplotlib`• `graphviz` • `pygraphviz`• `networkx` 
+`Python` • `numpy` • `matplotlib` • `graphviz` • `pygraphviz` • `networkx` 
 
----
-
-### 🔹 Decision Trees & Random Forests From Scratch with Entropy, Information Gain, Bootstrapping and Performance Analysis
-
-This work implements a full decision tree and random forest classifier **from scratch** using the Iris dataset.  
-It includes entropy computation, best-split search via midpoints, recursive tree building, prediction logic, depth–accuracy analysis, custom bootstrapping and feature subsampling, and evaluation of random forest performance under different hyperparameters.
-
-**Code:** [Decision Tree & Random Forests](https://github.com/zalediallo/IFT6390/blob/main/Lab7_Trees_2024.ipynb)
-
+### 🔹 Decision Trees & Random Forests From Scratch  
+Decision tree and random forest implementation with entropy, bootstrapping, recursive building, and hyperparameter evaluation.  
+🔗 **Code:** [Decision Tree & Random Forests](https://github.com/zalediallo/IFT6390/blob/main/Lab7_Trees_2024.ipynb)  
 #### 🔧 Tech Stack  
-`Python` • `numpy` • `matplotlib`• `sklearn` 
+`Python` • `numpy` • `matplotlib` • `sklearn` 
 
----
-
-### 🔹 Bayesian Networks with pgmpy
-
-This task demonstrates how to build and analyze **Bayesian Networks** using the `pgmpy` library.  
-It includes defining directed graphical models, adding conditional probability tables (CPDs), visualizing graphs using Graphviz, performing probabilistic inference with **Variable Elimination**, and sampling from complex models using **Gibbs Sampling**.
-
-**Code:** [Bayesian Networks](https://github.com/zalediallo/IFT6390/blob/main/R%C3%A9seaux_Bay%C3%A9siens.ipynb)
-
+### 🔹 Bayesian Networks with pgmpy  
+Building and analyzing Bayesian Networks using `pgmpy`, CPDs, Graphviz, variable elimination, and Gibbs sampling.  
+🔗 **Code:** [Bayesian Networks](https://github.com/zalediallo/IFT6390/blob/main/R%C3%A9seaux_Bay%C3%A9siens.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `matplotlib` • `raphviz` • `pgmpy` • `pygraphviz`
 
----
-
-### 🔹 AdaBoost From Scratch with Decision Stumps
-
-This work implements **AdaBoost from scratch** using decision stumps as weak learners.  
-It covers stump-based prediction, weighted error computation, alpha updating, iterative boosting, and aggregated predictions.  
-The notebook includes synthetic 2D data visualization, decision-boundary plotting, precision evaluation, and application to the Breast Cancer dataset for real-world classification.
-
-**Code:** [AdaBoost](https://github.com/zalediallo/IFT6390/blob/main/boosting.ipynb)
-
+### 🔹 AdaBoost From Scratch with Decision Stumps  
+AdaBoost implementation using decision stumps, error computation, alpha updating, and classification on synthetic and real-world datasets.  
+🔗 **Code:** [AdaBoost](https://github.com/zalediallo/IFT6390/blob/main/boosting.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `matplotlib` • `numpy` • `pandas` • `sklearn`
 
----
-
-### 🔹 Deep Learning with JAX & Flax: CNN Architecture, Training Pipeline, Data Augmentation & CIFAR-10 Evaluation
-
-This task demonstrates how to build, train, and evaluate a full **Convolutional Neural Network using JAX, Flax, and Optax**.  
-It covers:
-
-- Installing **JAX (CPU/GPU)**, **Flax**, and **Optax**
-- Building a custom `Flax_CNN` with convolutions, pooling, dense layers, and dropout
-- Creating a full training pipeline with:
-  - JIT-compiled training and testing loops  
-  - Cross-entropy loss  
-  - Adam optimizer  
-  - Accuracy tracking  
-  - Metric logging (loss + accuracy curves)
-- Loading and preprocessing **CIFAR-10** with TFDS
-- Visualizing samples and training evolution (loss and accuracy)
-- Applying **data augmentation** (flips, random rotations)
-- Re-training the model with augmented data and comparing results
-
-The work includes full training loops (with dropout RNGs), visualization utilities, and augmentation-enabled dataset pipelines.
-
-**Code:** [CNN using JAX 1](https://github.com/zalediallo/IFT6390/blob/main/Labo_6_R%C3%A9seaux_de_convolution.ipynb)
-
+### 🔹 Deep Learning with JAX & Flax  
+CNN architecture, training pipeline, data augmentation, CIFAR-10 evaluation using JAX, Flax, and Optax.  
+🔗 **Code:** [CNN using JAX 1](https://github.com/zalediallo/IFT6390/blob/main/Labo_6_R%C3%A9seaux_de_convolution.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `matplotlib` • `numpy` • `jax` • `tensorflow`
 
----
-
-### 🔹 Building and Training Neural Networks in JAX from Scratch
-This project explores deep learning with JAX by building and training MLPs and CNNs using autodiff, JIT compilation, and Flax. It includes training on MNIST and CIFAR-10, using Optax for optimization, as well as techniques for data augmentation, visualization, and performance evaluation.
-
-
-**Code:** [CNN using JAX 2](https://github.com/zalediallo/IFT6390/blob/main/Labo_5_R%C3%A9seaux_de_neurones.ipynb)
-
+### 🔹 Neural Networks in JAX from Scratch  
+MLP & CNN training on MNIST & CIFAR-10 using JAX, Flax, Optax, autodiff, and JIT compilation.  
+🔗 **Code:** [CNN using JAX 2](https://github.com/zalediallo/IFT6390/blob/main/Labo_5_R%C3%A9seaux_de_neurones.ipynb)  
 #### 🔧 Tech Stack  
 `Python` • `numpy` • `jax` 
 
----
+### 🔹 NHL Analytics Platform  
+Full pipeline for analyzing NHL shot events, data cleaning, predictions, and visualizations.  
+🔗 **Code:** [Canadian National Hockey League](https://github.com/SalehDiallo/IFT6758-A06.git)  
+#### 🔧 Tech Stack  
+`Python` • `Pandas` • `Matplotlib` • `Scikit-learn`
 
+### 🔹 Audio Dataset Processing & Visualization  
+Pipeline for downloading, segmenting, labeling, cleaning, and visualizing Google Research audio dataset.  
+#### 🔧 Tech Stack  
+`Python` • `Pandas` • `ffmpeg` • `youtube_dl`
 
+### 🔹 Homography & Panorama Reconstruction  
+Panorama reconstruction from 8 images using C++, OpenCV, and Mathematica.  
+#### 🔧 Tech Stack  
+`C++` • `OpenCV` • `Mathematica`
 
-### 🔹 NHL Analytics Platform
-A full data engineering + machine learning pipeline analyzing Canadian NHL(National Hockey League) shot events.  
-**Tech:** Python, Pandas, Matplotlib, Scikit-learn  
-**Features:**  
-- API client for NHL game data  
-- Data cleaning + EDA  
-- Prediction of shot scoring probability  
-- Visualization dashboards  
-
-🔗 **Code: [Canadian National Hockey League](https://github.com/SalehDiallo/IFT6758-A06.git)
-
----
-
-### 🔹 Audio Dataset Processing & Visualization
-Data science pipeline using Google Research audio dataset.  
-**Tech:** Python, Pandas, ffmpeg, youtube_dl  
-**Includes:**  
-- Automatic audio download  
-- Segment extraction  
-- Label mapping via ontology  
-- Dataset cleaning & visualization  
-
----
-
-### 🔹 Homography & Panorama Reconstruction (C++ + OpenCV)
-Computer vision project reconstructing a panorama from 8 images.  
-**Tech:** C++, OpenCV, Mathematica  
-**Includes:**  
-- Homography estimation  
-- Image warping  
-- Perspective correction  
-- Blending & panoramic result  
-
----
-
-### 🔹 Gen AI – Chatbots & Agents
-Mini-projects showcasing LLM usage in apps:  
-- RAG chatbot with Pinecone + LangChain  
-- PDF question-answering  
-- Simple planning agent  
-- Text generation API with FastAPI  
+### 🔹 Gen AI – Chatbots & Agents  
+Mini-projects using LLMs for RAG chatbot, PDF Q&A, planning agents, and FastAPI text generation.  
 
 ---
 
 ## 🎓 Education
-**Computer Science — [University of Montreal](https://www.umontreal.ca/l-udem/#histoire)**  — *Canada* <br>
-Focus: AI, Data Science, Computer Vision, Machine Learning
+**Computer Science — [University of Montreal](https://www.umontreal.ca/l-udem/#histoire)** — *Canada*  
+Focus: AI, Data Science, Computer Vision, Machine Learning  
 
-**Computer Science — [Northwestern Ploytechnical University](https://en.nwpu.edu.cn/)**  — *China* <br>
-Focus: Computer vsion, Object detection & recognition, Deep learning
+**Computer Science — [Northwestern Polytechnic University](https://en.nwpu.edu.cn/)** — *China*  
+Focus: Computer vision, Object detection & recognition, Deep learning  
 
-**Computer Science — [Iba Der Thiam University of Thiès](https://v3.uidt.sn/a-propos/)**  — *Senegal* <br>
-Focus: Software engineering
-
-
+**Computer Science — [Iba Der Thiam University of Thiès](https://v3.uidt.sn/a-propos/)** — *Senegal*  
+Focus: Software engineering  
 
 ---
 
 ## 🌍 Languages
 - **French** (advanced)  
 - **English** (advanced)  
-- **Mandarin** (intermediate)
-- **Fulani** (advanced)
-- **Wolof** (advanced)
+- **Mandarin** (intermediate)  
+- **Fulani** (advanced)  
+- **Wolof** (advanced)  
 
 ---
 
@@ -275,4 +168,4 @@ Focus: Software engineering
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!😁*
+⭐ *If you like my work, feel free to star my repositories! 😁*
