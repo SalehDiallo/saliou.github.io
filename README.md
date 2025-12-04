@@ -3,7 +3,6 @@
 🎓 Master's in Computer Science – Université de Montréal  
 📍 Based in Montreal, QC  
 🌐 Bilingual: French & English  
-Other languages: Fulani, Wolof, Mandarin
 
 ---
 
@@ -204,20 +203,20 @@ This project explores deep learning with JAX by building and training MLPs and C
 
 
 
-### 🔹 **🏒 NHL Analytics Platform**
-A full data engineering + machine learning pipeline analyzing NHL shot events.  
+### 🔹 NHL Analytics Platform**
+A full data engineering + machine learning pipeline analyzing Canadian NHL(National Hockey League) shot events.  
 **Tech:** Python, Pandas, Matplotlib, Scikit-learn  
 **Features:**  
-- API client for NHL game data (IFT6758 project)  
+- API client for NHL game data  
 - Data cleaning + EDA  
 - Prediction of shot scoring probability  
 - Visualization dashboards  
 
-🔗 **Source code:**[IFT6758 project](https://github.com/SalehDiallo/IFT6758-A06.git)**
+🔗 **Source code: [Canadian National Hockey League](https://github.com/SalehDiallo/IFT6758-A06.git)
 
 ---
 
-### 🔹 **🎧 Audio Dataset Processing & Visualization**
+### 🔹 Audio Dataset Processing & Visualization**
 Data science pipeline using Google Research audio dataset.  
 **Tech:** Python, Pandas, ffmpeg, youtube_dl  
 **Includes:**  
@@ -228,7 +227,7 @@ Data science pipeline using Google Research audio dataset.
 
 ---
 
-### 🔹 **📸 Homography & Panorama Reconstruction (C++ + OpenCV)**
+### 🔹 Homography & Panorama Reconstruction (C++ + OpenCV)**
 Computer vision project reconstructing a panorama from 8 images.  
 **Tech:** C++, OpenCV, Mathematica  
 **Includes:**  
@@ -239,7 +238,7 @@ Computer vision project reconstructing a panorama from 8 images.
 
 ---
 
-### 🔹 **🧠 Gen AI – Chatbots & Agents**
+### 🔹 Gen AI – Chatbots & Agents**
 Mini-projects showcasing LLM usage in apps:  
 - RAG chatbot with Pinecone + LangChain  
 - PDF question-answering  
