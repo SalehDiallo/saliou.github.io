@@ -194,7 +194,7 @@ This assignment develops skills in data analysis through two case studies: Reddi
 #### 🔧 Tech Stack  
 `Python` • `Pandas` • `Numpy` • `scipy` • `matplotlib` • `seaborn` • `tqdm`
 
-### 🔹 Full-Stack ML Deployment & System Analysis
+### 🔹 Full-Stack ML Deployment and System Analysis
 In this task, we explore deploying machine-learning systems through backend–frontend architecture, Docker containers, and API interactions. We diagnose bugs, analyze session handling, evaluate model-loading strategies, and study API-gateway designs. They also reflect on quantization trade-offs. The goal is to develop practical skills in debugging, deployment, and understanding real-world ML infrastructure.<br>
 🔗 **Code:** [ML Deployment](https://github.com/zalediallo/datasciences/blob/main/hw4.zip) 
 #### 🔧 Tech Stack  
@@ -213,7 +213,7 @@ This task explores fine-tuning modern transformer models for two tasks: sentimen
 `Python` • `transformers` • `matplotlib` • `numpy` • `scikit-learn` • `numpy` • `transformers` • `DistilBERT` • `LLaMA` 
 
 ### 🔹 JInteractive Grouped Bar Chart Visualization(INF8808)
-This project consists of building an interactive grouped bar chart using D3.js and CSV data from Romeo and Juliet. Students preprocess character-line data, visualize grouped bars per act, add a color legend, and implement tooltips. The goal is to develop practical data-visualization skills and produce a clear, interactive graphic.<br>
+This project consists of building an interactive grouped bar chart using D3.js and CSV data from Romeo and Juliet. We preprocess character-line data, visualize grouped bars per act, add a color legend, and implement tooltips. The goal is to develop practical data-visualization skills and produce a clear, interactive graphic.<br>
 🔗 **Code:** [INF8808 Homework 2](https://github.com/zalediallo/INF8808/releases/tag/H1) 
 #### 🔧 Tech Stack  
 `JavaScript (ES6+)` • `Node.js` • `HTML` • `CSS` • `D3.js`
